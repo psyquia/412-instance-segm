@@ -1,5 +1,5 @@
 # 412-instance-segm
-Pytorch Object Detection, Semantic Segmentation, and Instance Segmentation for CMPT 412
+Pytorch Object Detection, Semantic Segmentation, and Instance Segmentation for CMPT 412. Code was run on Google Colab.
 
 **Report**: https://github.com/psyquia/412-instance-segm/blob/master/412%20Project3.pdf
 
